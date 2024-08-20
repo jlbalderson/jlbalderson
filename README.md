@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jlbalderson
+- 👀 I’m interested in Math and Music
+- 🌱 I’m currently learning Computer Science, coding in python
+- ⚡ Fun fact: Trombone Performance Major
